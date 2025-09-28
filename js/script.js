@@ -12,6 +12,7 @@ let searchPokemon = 0;
 
 document.addEventListener('DOMContentLoaded', () => {
     imgInicial = imgInicial.src = '../imgs/pokemon.png';
+
 })
 
 const fetchPokemon = async (pokemon) => {

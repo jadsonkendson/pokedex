@@ -21,6 +21,6 @@ O projeto foi desenvolvido com HTML, CSS e JavaScript puro, com foco em aprendiz
 
 ## 📸 Prévia
 
-![pokedex preview](./img/pokedex.png)
+![pokedex preview](./imgs/pokedex.png)
 
 

@@ -11,7 +11,7 @@ const btnNext = document.querySelector('.btn-next');
 let searchPokemon = 0;
 
 document.addEventListener('DOMContentLoaded', () => {
-    imgInicial = imgInicial.src = '../imgs/pokemon.png';
+    imgInicial = imgInicial.src = '../img/pokemon.png';
 
 })
 

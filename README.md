@@ -19,5 +19,8 @@ O projeto foi desenvolvido com HTML, CSS e JavaScript puro, com foco em aprendiz
 - PokéAPI
 
 
+## 📸 Prévia
+
+![pokedex preview](./img/pokedex.png)
 
 

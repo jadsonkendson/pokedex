@@ -1,7 +1,7 @@
 # 🧠 Pokédex Interativa
 
 Uma aplicação web simples e interativa que consome a [PokéAPI](https://pokeapi.co/) para exibir informações sobre Pokémon.
-O projeto foi desenvolvido com HTML, CSS e JavaScript puro, com foco em aprendizado de manipulação de DOM, requisições assíncronas e integração com APIs externas.
+> O projeto foi desenvolvido com HTML, CSS e JavaScript puro, com foco em aprendizado de manipulação de DOM, requisições assíncronas e integração com APIs externas.
 
 ## 🚀 Funcionalidades
 
